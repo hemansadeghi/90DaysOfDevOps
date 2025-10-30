@@ -2,6 +2,9 @@
 [![Watch the video](thumbnails/day2.png)](https://www.youtube.com/watch?v=xeX4HGLeJQw)
 
 
+> نسخه فارسی این خلاصه: [روز ۲ - کارخانه دیجیتال](fa/day02.md)
+
+
 ## Video
 [![Day 2: The Digital Factory ](https://img.youtube.com/vi/xeX4HGLeJQw/0.jpg)](https://youtu.be/xeX4HGLeJQw?si=CJ75C8gUBcdWAQTR)
 
